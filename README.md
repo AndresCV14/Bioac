@@ -3,7 +3,7 @@ Bioac: a demo package
 
 This is a demo package.
 
-Any suggestion do not hesitate to contact at gualapuro.moises@gmail.com
+Any suggestion do not hesitate to contact at andres.calderon@est.ikiam.edu.ec
 
 Installation and loading
 ------------------------
