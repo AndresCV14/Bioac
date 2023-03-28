@@ -8,7 +8,7 @@
 #' @export
 #'
 #' @examples
-#' NColumn(genotype_analysis, X1, ID)
+#' Ncolumn(genotype_analysis, "X1", "ID")
 #'
 #'
 Ncolumn <- function(data, columna, nuevo_nombre){

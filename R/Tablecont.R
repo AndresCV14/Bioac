@@ -7,7 +7,7 @@
 #' @export
 #'
 #' @examples
-#' Tablecont(genotype_analysis, X2)
+#' Tablecont(genotype_analysis, "X2")
 #'
 #'
 Tablecont <- function(data, columna) {

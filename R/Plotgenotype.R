@@ -9,7 +9,7 @@
 #' @import ggplot2
 #'
 #' @examples
-#' Plotgenotype(genotype_analysis, X7)
+#' Plotgenotype(genotype_analysis, "X7")
 #'
 #'
 Plotgenotype <- function(datos, columna) {
